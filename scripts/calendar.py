@@ -54,9 +54,11 @@ if not summary or len(days) < 365 or sum(d[2] for d in days) != int(summary[1].r
 today = datetime.now(ZoneInfo("Asia/Jakarta")).date()
 active = {day for day, _, count in days if count}
 longest = streak = 0
+end_longest = None
 for day, _, count in days:
     streak = streak + 1 if count else 0
-    longest = max(longest, streak)
+    if streak > longest:
+        longest, end_longest = streak, day
 cursor = today if today in active else today - timedelta(days=1)
 current = 0
 while cursor in active:
@@ -116,6 +118,19 @@ for day, level, count in days:
             parts.append(f'<path d="{end}"/>')
     parts.append("</g>")
 parts.append("</g>")
+def span(end, length):
+    if end is None or not length:
+        return "—"
+    start = end - timedelta(days=length - 1)
+    return end.strftime("%b %d") if length == 1 else f"{start:%b %d} – {end:%b %d}"
+
+
+details = [
+    f"Jan 01 – {min(today, days[-1][0]):%b %d}",
+    next((f"{day:%b %d}" for day, _, count in days if peak and count == peak), "—"),
+    span(end_longest, longest),
+    span(cursor + timedelta(days=current), current),
+]
 stats = [
     ("Year total", summary[1].replace("No", "0"), "contributions"),
     ("Busiest day", peak, "contribution" if peak == 1 else "contributions"),
@@ -124,20 +139,20 @@ stats = [
 ]
 
 
-def stat(x, y, anchor, label, value, unit):
+def stat(x, y, anchor, label, value, unit, detail):
     return (f'<g transform="translate({x} {y})" text-anchor="{anchor}"><text>{label}</text>'
-            f'<text class="value" y="25">{value} <tspan font-size="13" font-weight="400">{unit}</tspan></text></g>')
+            f'<text class="value" y="25">{value} <tspan font-size="13" font-weight="400">{unit}</tspan></text><text y="42" font-size="12">{detail}</text></g>')
 
 
 parts.append('<g class="row-stats"><path d="M24 291H826" stroke="var(--line)"/>')
-for x, data in zip((25, 230, 435, 640), stats):
-    parts.append(stat(x, 314, "start", *data))
+for x, data, detail in zip((25, 230, 435, 640), stats, details):
+    parts.append(stat(x, 309, "start", *data, detail))
 parts.append("</g>")
-for x, y, anchor, offset, pair in [(825, 60, "end", "-10px", stats[:2]),
-                                    (25, 260, "start", "10px", stats[2:])]:
+for x, y, anchor, offset, pair in [(825, 52, "end", "-10px", stats[:2]),
+                                    (25, 248, "start", "10px", stats[2:])]:
     parts.append(f'<g class="corner-stats" style="--offset:{offset}">')
     for i, data in enumerate(pair):
-        parts.append(stat(x, y + i * 53, anchor, *data))
+        parts.append(stat(x, y + i * 58, anchor, *data, details[stats.index(data)]))
     parts.append("</g>")
 parts.append("</svg>")
 Path("assets/contribution-skyline.svg").write_text("\n".join(parts) + "\n")

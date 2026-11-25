@@ -18,11 +18,19 @@ jobs:
         run: |
           today=$(TZ=Asia/Jakarta date +%F)
           curl --fail --silent --show-error --location --retry 3 "https://github.com/users/$PROFILE/contributions?from=${today:0:4}-01-01&to=$today" | python3 scripts/calendar.py
+      - name: Export animation frames for README image viewers
+        run: |
+          if git diff --quiet -- assets/contribution-skyline.svg && test -s assets/skyline-dark.webp && test -s assets/skyline-light.webp; then
+            exit 0
+          fi
+          python3 -m venv "$RUNNER_TEMP/skyline"
+          "$RUNNER_TEMP/skyline/bin/pip" install 'playwright==1.55.0' 'pillow==11.3.0'
+          "$RUNNER_TEMP/skyline/bin/python" scripts/render_animation.py
       - name: Save updated image
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/contribution-skyline.svg
+          git add assets/contribution-skyline.svg assets/skyline-light.webp assets/skyline-dark.webp
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh contribution calendar'
             git push
