@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="360" viewBox="0 0 850 360" role="img" aria-labelledby="title desc">
-<title id="title">97 contributions in 2026</title>
+<title id="title">101 contributions in 2026</title>
 <desc id="desc">Each tile represents a day. Taller buildings indicate more contributions.</desc>
 <style>
 svg{--ease:linear(0.0000000,0.0000373,0.0002910,0.0009589,0.0022182,0.0042270,0.0071245,0.0110317,0.0160522,0.0222731,0.0297651,0.0385835,0.0487690,0.0603481,0.0733340,0.0877271,0.1035156,0.1206766,0.1391761,0.1589703,0.1800060,0.2022212,0.2255459,0.2499027,0.2752075,0.3013702,0.3282952,0.3558823,0.3840275,0.4126230,0.4415587,0.4707222,0.5000000,0.5292778,0.5584413,0.5873770,0.6159725,0.6441177,0.6717048,0.6986298,0.7247925,0.7500973,0.7744541,0.7977788,0.8199940,0.8410297,0.8608239,0.8793234,0.8964844,0.9122729,0.9266660,0.9396519,0.9512310,0.9614165,0.9702349,0.9777269,0.9839478,0.9889683,0.9928755,0.9957730,0.9977818,0.9990411,0.9997090,0.9999627,1.0000000);--bg:#fff;--ink:#24292f;--muted:#57606a;--line:#d0d7de;--l0:#ebedf0;--l1:#c6e48b;--l2:#7bc96f;--l3:#239a3b;--l4:#196127}
@@ -20,7 +20,7 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.value{font-size:22px;font
 }
 </style>
 <rect x=".5" y=".5" width="849" height="359" rx="16" fill="var(--bg)" stroke="var(--line)"/>
-<text x="825" y="34" text-anchor="end">2026</text>
+<text x="825" y="34" text-anchor="end">January – December 2026</text>
 <g class="grid">
 <g transform="translate(0 60)" fill="var(--l0)" style="--delay:0ms">
 <path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
@@ -544,7 +544,7 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.value{font-size:22px;font
 <g transform="translate(375 0)" fill="var(--l0)" style="--delay:200ms">
 <path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
 </g>
-<g transform="translate(375 15)" fill="var(--l2)" style="--delay:200ms">
+<g transform="translate(375 15)" fill="var(--l1)" style="--delay:200ms">
 <path class="face" d="M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z')"/>
 <path class="face" d="M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
@@ -568,12 +568,12 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.value{font-size:22px;font
 <path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
-<g transform="translate(390 0)" fill="var(--l2)" style="--delay:208ms">
+<g transform="translate(390 0)" fill="var(--l1)" style="--delay:208ms">
 <path class="face" d="M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z')"/>
 <path class="face" d="M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
-<g transform="translate(390 15)" fill="var(--l4)" style="--delay:208ms">
+<g transform="translate(390 15)" fill="var(--l3)" style="--delay:208ms">
 <path class="face" d="M-32.57,-50.49 L-20.57,-50.49 L-20.57,-38.49 L-32.57,-38.49 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-32.57,-50.49 L-20.57,-50.49 L-20.57,-38.49 L-32.57,-38.49 Z')"/>
 <path class="face" d="M-20.57,-50.49 L-20.57,-38.49 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-20.57,-50.49 L-20.57,-38.49 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-20.57,-38.49 L-32.57,-38.49 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-20.57,-38.49 L-32.57,-38.49 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
@@ -626,7 +626,7 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.value{font-size:22px;font
 <path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
-<g transform="translate(420 30)" fill="var(--l2)" style="--delay:224ms">
+<g transform="translate(420 30)" fill="var(--l1)" style="--delay:224ms">
 <path class="face" d="M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z')"/>
 <path class="face" d="M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
@@ -883,7 +883,7 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.value{font-size:22px;font
 <path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
-<g transform="translate(600 15)" fill="var(--l2)" style="--delay:320ms">
+<g transform="translate(600 15)" fill="var(--l1)" style="--delay:320ms">
 <path class="face" d="M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z')"/>
 <path class="face" d="M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
@@ -1046,9 +1046,9 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.value{font-size:22px;font
 <path class="face" d="M-25.33,-45.87 L-37.33,-45.87 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-25.33,-45.87 L-37.33,-45.87 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
 <g transform="translate(705 60)" fill="var(--l4)" style="--delay:376ms">
-<path class="face" d="M-35.15,-54.49 L-23.15,-54.49 L-23.15,-42.49 L-35.15,-42.49 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-35.15,-54.49 L-23.15,-54.49 L-23.15,-42.49 L-35.15,-42.49 Z')"/>
-<path class="face" d="M-23.15,-54.49 L-23.15,-42.49 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-23.15,-54.49 L-23.15,-42.49 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
-<path class="face" d="M-23.15,-42.49 L-35.15,-42.49 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-23.15,-42.49 L-35.15,-42.49 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+<path class="face" d="M-39.22,-60.80 L-27.22,-60.80 L-27.22,-48.80 L-39.22,-48.80 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-39.22,-60.80 L-27.22,-60.80 L-27.22,-48.80 L-39.22,-48.80 Z')"/>
+<path class="face" d="M-27.22,-60.80 L-27.22,-48.80 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-27.22,-60.80 L-27.22,-48.80 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-27.22,-48.80 L-39.22,-48.80 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-27.22,-48.80 L-39.22,-48.80 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
 <g transform="translate(705 75)" fill="var(--l0)" style="--delay:376ms">
 <path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
@@ -1155,15 +1155,27 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.value{font-size:22px;font
 <g transform="translate(780 60)" fill="var(--l0)" style="--delay:416ms">
 <path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
 </g>
+<text class="month" x="0" y="121">Jan</text>
+<text class="month" x="75" y="121">Feb</text>
+<text class="month" x="135" y="121">Mar</text>
+<text class="month" x="195" y="121">Apr</text>
+<text class="month" x="255" y="121">May</text>
+<text class="month" x="330" y="121">Jun</text>
+<text class="month" x="390" y="121">Jul</text>
+<text class="month" x="450" y="121">Aug</text>
+<text class="month" x="525" y="121">Sep</text>
+<text class="month" x="585" y="121">Oct</text>
+<text class="month" x="660" y="121">Nov</text>
+<text class="month" x="720" y="121">Dec</text>
 </g>
 <g class="row-stats"><path d="M24 291H826" stroke="var(--line)"/>
-<g transform="translate(25 309)" text-anchor="start"><text>Year total</text><text class="value" y="25">97 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">Jan 01 – Nov 26</text></g>
+<g transform="translate(25 309)" text-anchor="start"><text>Year total</text><text class="value" y="25">101 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">Jan 01 – Dec 31</text></g>
 <g transform="translate(230 309)" text-anchor="start"><text>Busiest day</text><text class="value" y="25">30 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">May 24</text></g>
 <g transform="translate(435 309)" text-anchor="start"><text>Longest streak</text><text class="value" y="25">4 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">Jun 26 – Jun 29</text></g>
 <g transform="translate(640 309)" text-anchor="start"><text>Current streak</text><text class="value" y="25">2 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">Nov 25 – Nov 26</text></g>
 </g>
 <g class="corner-stats" style="--offset:-5px">
-<g transform="translate(825 52)" text-anchor="end"><text>Year total</text><text class="value" y="25">97 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">Jan 01 – Nov 26</text></g>
+<g transform="translate(825 52)" text-anchor="end"><text>Year total</text><text class="value" y="25">101 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">Jan 01 – Dec 31</text></g>
 <g transform="translate(825 110)" text-anchor="end"><text>Busiest day</text><text class="value" y="25">30 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">May 24</text></g>
 </g>
 <g class="corner-stats" style="--offset:5px">
