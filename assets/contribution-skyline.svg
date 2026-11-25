@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="360" viewBox="0 0 850 360" role="img" aria-labelledby="title desc">
-<title id="title">Contribution Skyline · 87 contributions in 2026</title>
+<title id="title">Contribution Skyline · 90 contributions in 2026</title>
 <desc id="desc">Each tile represents a day. Taller buildings indicate more contributions.</desc>
 <style>
 svg{--bg:#fff;--ink:#24292f;--muted:#57606a;--line:#d0d7de;--l0:#ebedf0;--l1:#c6e48b;--l2:#7bc96f;--l3:#239a3b;--l4:#196127}
@@ -1046,10 +1046,10 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 <path class="face" d="M-25.33,-57.87 L-25.33,-45.87 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-25.33,-57.87 L-25.33,-45.87 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-25.33,-45.87 L-37.33,-45.87 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-25.33,-45.87 L-37.33,-45.87 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
-<g transform="translate(705 60)" fill="var(--l1)" style="--delay:564ms">
-<path class="face" d="M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z')"/>
-<path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
-<path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+<g transform="translate(705 60)" fill="var(--l4)" style="--delay:564ms">
+<path class="face" d="M-22.77,-35.29 L-10.77,-35.29 L-10.77,-23.29 L-22.77,-23.29 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-22.77,-35.29 L-10.77,-35.29 L-10.77,-23.29 L-22.77,-23.29 Z')"/>
+<path class="face" d="M-10.77,-35.29 L-10.77,-23.29 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-10.77,-35.29 L-10.77,-23.29 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-10.77,-23.29 L-22.77,-23.29 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-10.77,-23.29 L-22.77,-23.29 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
 <g transform="translate(705 75)" fill="var(--l0)" style="--delay:564ms">
 <path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
@@ -1158,17 +1158,17 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 </g>
 </g>
 <g class="row-stats"><path d="M24 291H826" stroke="var(--line)"/>
-<g transform="translate(25 314)" text-anchor="start"><text>Year total</text><text class="value" y="25">87 <tspan font-size="13" font-weight="400">contributions</tspan></text></g>
-<g transform="translate(230 314)" text-anchor="start"><text>Busiest day</text><text class="value" y="25">30 <tspan font-size="13" font-weight="400">contributions</tspan></text></g>
-<g transform="translate(435 314)" text-anchor="start"><text>Longest streak</text><text class="value" y="25">4 <tspan font-size="13" font-weight="400">days</tspan></text></g>
-<g transform="translate(640 314)" text-anchor="start"><text>Current streak</text><text class="value" y="25">2 <tspan font-size="13" font-weight="400">days</tspan></text></g>
+<g transform="translate(25 309)" text-anchor="start"><text>Year total</text><text class="value" y="25">90 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">Jan 01 – Nov 26</text></g>
+<g transform="translate(230 309)" text-anchor="start"><text>Busiest day</text><text class="value" y="25">30 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">May 24</text></g>
+<g transform="translate(435 309)" text-anchor="start"><text>Longest streak</text><text class="value" y="25">4 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">Jun 26 – Jun 29</text></g>
+<g transform="translate(640 309)" text-anchor="start"><text>Current streak</text><text class="value" y="25">2 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">Nov 25 – Nov 26</text></g>
 </g>
 <g class="corner-stats" style="--offset:-10px">
-<g transform="translate(825 60)" text-anchor="end"><text>Year total</text><text class="value" y="25">87 <tspan font-size="13" font-weight="400">contributions</tspan></text></g>
-<g transform="translate(825 113)" text-anchor="end"><text>Busiest day</text><text class="value" y="25">30 <tspan font-size="13" font-weight="400">contributions</tspan></text></g>
+<g transform="translate(825 52)" text-anchor="end"><text>Year total</text><text class="value" y="25">90 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">Jan 01 – Nov 26</text></g>
+<g transform="translate(825 110)" text-anchor="end"><text>Busiest day</text><text class="value" y="25">30 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">May 24</text></g>
 </g>
 <g class="corner-stats" style="--offset:10px">
-<g transform="translate(25 260)" text-anchor="start"><text>Longest streak</text><text class="value" y="25">4 <tspan font-size="13" font-weight="400">days</tspan></text></g>
-<g transform="translate(25 313)" text-anchor="start"><text>Current streak</text><text class="value" y="25">2 <tspan font-size="13" font-weight="400">days</tspan></text></g>
+<g transform="translate(25 248)" text-anchor="start"><text>Longest streak</text><text class="value" y="25">4 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">Jun 26 – Jun 29</text></g>
+<g transform="translate(25 306)" text-anchor="start"><text>Current streak</text><text class="value" y="25">2 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">Nov 25 – Nov 26</text></g>
 </g>
 </svg>
