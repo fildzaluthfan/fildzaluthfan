@@ -28,4 +28,8 @@ I build web interfaces, write the APIs behind them, and work with data from sens
 
 ## GitHub Activity
 
-![Fildza's contribution heatmap unfolding into a 3D skyline](./assets/contribution-skyline.svg?v=2)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/fildzaluthfan/fildzaluthfan/main/assets/contribution-skyline.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fildzaluthfan/fildzaluthfan/main/assets/skyline-dark.webp">
+  <img alt="Fildza’s annual contributions, busiest day, and streaks moving between the heatmap and skyline views" src="./assets/skyline-light.webp">
+</picture>
