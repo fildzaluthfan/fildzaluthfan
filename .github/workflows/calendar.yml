@@ -17,12 +17,12 @@ jobs:
           PROFILE: ${{ github.repository_owner }}
         shell: bash
         run: |
-          gh api graphql -F login="$PROFILE" -f query='query($login:String!) { user(login:$login) { contributionsCollection { contributionCalendar { weeks { contributionDays { date contributionLevel contributionCount } } } } } }' --jq '.data.user.contributionsCollection.contributionCalendar' | python3 scripts/calendar.py
+          gh api graphql -F login="$PROFILE" -f query='query($login:String!) { user(login:$login) { contributionsCollection { contributionCalendar { totalContributions weeks { contributionDays { date contributionLevel contributionCount } } } } } }' --jq '.data.user.contributionsCollection.contributionCalendar' | python3 scripts/calendar.py
       - name: Save updated image
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/activity.svg
+          git add assets/contribution-calendar.svg
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh contribution calendar'
             git push
