@@ -24,7 +24,7 @@ I build web interfaces, write the APIs behind them, and work with data from sens
 
 ## Get in Touch
 
-[Instagram @mfildza_lm](https://www.instagram.com/mfildza_lm) · [Email me](mailto:mfildzaluthfanm.16@gmail.com)
+[![Instagram @mfildza_lm](./assets/instagram.svg)](https://www.instagram.com/mfildza_lm) &nbsp; [![Email Fildza at mfildzaluthfanm.16@gmail.com](./assets/gmail.svg)](mailto:mfildzaluthfanm.16@gmail.com)
 
 ## GitHub Activity
 

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="42" viewBox="0 0 144 42">
+  <title>Instagram @mfildza_lm</title>
+  <defs>
+    <linearGradient id="camera" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#ffb84e"/><stop offset=".5" stop-color="#fc618d"/><stop offset="1" stop-color="#b696ff"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="143" height="41" rx="9" fill="#20252b" stroke="#59616b"/>
+  <g fill="none" stroke="url(#camera)" stroke-width="2.3">
+    <rect x="12" y="10" width="22" height="22" rx="6"/>
+    <circle cx="23" cy="21" r="5"/>
+  </g>
+  <circle cx="29.3" cy="14.8" r="1.4" fill="#d991f2"/>
+  <text x="45" y="26" fill="#fff" font-family="Arial, sans-serif" font-size="15">@mfildza_lm</text>
+</svg>
