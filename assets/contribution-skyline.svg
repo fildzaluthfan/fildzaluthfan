@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="360" viewBox="0 0 850 360" role="img" aria-labelledby="title desc">
-<title id="title">Contribution Skyline · 91 contributions in 2026</title>
+<title id="title">Contribution Skyline · 93 contributions in 2026</title>
 <desc id="desc">Each tile represents a day. Taller buildings indicate more contributions.</desc>
 <style>
 svg{--bg:#fff;--ink:#24292f;--muted:#57606a;--line:#d0d7de;--l0:#ebedf0;--l1:#c6e48b;--l2:#7bc96f;--l3:#239a3b;--l4:#196127}
@@ -9,14 +9,14 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 .value{font-variant-numeric:tabular-nums}
 .grid{transform:matrix(.93,.13,-.6,.62,86,119)}
 @media(prefers-reduced-motion:no-preference){
-.row-stats{animation:row 14s cubic-bezier(.45,0,.55,1) infinite}
-.corner-stats{animation:corners 14s cubic-bezier(.45,0,.55,1) infinite}
-@keyframes row{0%,6%,96%,100%{opacity:1;transform:translateY(0)}33%,69%{opacity:0;transform:translateY(5px)}}
-@keyframes corners{0%,21%,83%,100%{opacity:0;transform:translateY(var(--offset))}45%,57%{opacity:1;transform:translateY(0)}}
-.grid{animation:camera 14s cubic-bezier(.45,0,.55,1) infinite}
-@keyframes camera{0%,5%,99%,100%{transform:matrix(1,0,0,1,28,114)}44%,58%{transform:matrix(.93,.13,-.6,.62,86,119)}}
-.face{animation:rise 14s cubic-bezier(.45,0,.55,1) infinite;animation-delay:var(--delay);animation-fill-mode:backwards}
-@keyframes rise{0%,6%,96%,100%{d:var(--flat)}45%,57%{d:var(--raised)}}
+.row-stats{animation:row 6s cubic-bezier(.42,0,.45,1) both}
+.corner-stats{animation:corners 6s cubic-bezier(.42,0,.45,1) both}
+@keyframes row{0%{opacity:1;transform:translateY(0)}62%,100%{opacity:0;transform:translateY(5px)}}
+@keyframes corners{0%,28%{opacity:0;transform:translateY(var(--offset))}94%,100%{opacity:1;transform:translateY(0)}}
+.grid{animation:camera 6s cubic-bezier(.42,0,.45,1) both}
+@keyframes camera{0%{transform:matrix(1,0,0,1,28,114)}100%{transform:matrix(.93,.13,-.6,.62,86,119)}}
+.face{animation:rise 6s cubic-bezier(.42,0,.45,1) both;animation-delay:var(--delay)}
+@keyframes rise{0%{d:var(--flat)}94%,100%{d:var(--raised)}}
 }
 </style>
 <rect x=".5" y=".5" width="849" height="359" rx="16" fill="var(--bg)" stroke="var(--line)"/>
@@ -449,7 +449,7 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 <g transform="translate(300 75)" fill="var(--l0)" style="--delay:160ms">
 <path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
 </g>
-<g transform="translate(300 90)" fill="var(--l4)" style="--delay:160ms">
+<g transform="translate(300 90)" fill="var(--l3)" style="--delay:160ms">
 <path class="face" d="M-25.35,-39.29 L-13.35,-39.29 L-13.35,-27.29 L-25.35,-27.29 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-25.35,-39.29 L-13.35,-39.29 L-13.35,-27.29 L-25.35,-27.29 Z')"/>
 <path class="face" d="M-13.35,-39.29 L-13.35,-27.29 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-13.35,-39.29 L-13.35,-27.29 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-13.35,-27.29 L-25.35,-27.29 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-13.35,-27.29 L-25.35,-27.29 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
@@ -545,7 +545,7 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 <g transform="translate(375 0)" fill="var(--l0)" style="--delay:200ms">
 <path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
 </g>
-<g transform="translate(375 15)" fill="var(--l3)" style="--delay:200ms">
+<g transform="translate(375 15)" fill="var(--l2)" style="--delay:200ms">
 <path class="face" d="M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z')"/>
 <path class="face" d="M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
@@ -559,7 +559,7 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 <g transform="translate(375 60)" fill="var(--l0)" style="--delay:200ms">
 <path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
 </g>
-<g transform="translate(375 75)" fill="var(--l4)" style="--delay:200ms">
+<g transform="translate(375 75)" fill="var(--l3)" style="--delay:200ms">
 <path class="face" d="M-22.77,-35.29 L-10.77,-35.29 L-10.77,-23.29 L-22.77,-23.29 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-22.77,-35.29 L-10.77,-35.29 L-10.77,-23.29 L-22.77,-23.29 Z')"/>
 <path class="face" d="M-10.77,-35.29 L-10.77,-23.29 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-10.77,-35.29 L-10.77,-23.29 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-10.77,-23.29 L-22.77,-23.29 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-10.77,-23.29 L-22.77,-23.29 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
@@ -569,7 +569,7 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 <path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
-<g transform="translate(390 0)" fill="var(--l3)" style="--delay:208ms">
+<g transform="translate(390 0)" fill="var(--l2)" style="--delay:208ms">
 <path class="face" d="M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z')"/>
 <path class="face" d="M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
@@ -627,7 +627,7 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 <path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
-<g transform="translate(420 30)" fill="var(--l3)" style="--delay:224ms">
+<g transform="translate(420 30)" fill="var(--l2)" style="--delay:224ms">
 <path class="face" d="M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z')"/>
 <path class="face" d="M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
@@ -884,7 +884,7 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 <path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
-<g transform="translate(600 15)" fill="var(--l3)" style="--delay:320ms">
+<g transform="translate(600 15)" fill="var(--l2)" style="--delay:320ms">
 <path class="face" d="M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z')"/>
 <path class="face" d="M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
@@ -1047,9 +1047,9 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 <path class="face" d="M-25.33,-45.87 L-37.33,-45.87 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-25.33,-45.87 L-37.33,-45.87 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
 <g transform="translate(705 60)" fill="var(--l4)" style="--delay:376ms">
-<path class="face" d="M-25.35,-39.29 L-13.35,-39.29 L-13.35,-27.29 L-25.35,-27.29 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-25.35,-39.29 L-13.35,-39.29 L-13.35,-27.29 L-25.35,-27.29 Z')"/>
-<path class="face" d="M-13.35,-39.29 L-13.35,-27.29 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-13.35,-39.29 L-13.35,-27.29 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
-<path class="face" d="M-13.35,-27.29 L-25.35,-27.29 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-13.35,-27.29 L-25.35,-27.29 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+<path class="face" d="M-29.42,-45.60 L-17.42,-45.60 L-17.42,-33.60 L-29.42,-33.60 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-29.42,-45.60 L-17.42,-45.60 L-17.42,-33.60 L-29.42,-33.60 Z')"/>
+<path class="face" d="M-17.42,-45.60 L-17.42,-33.60 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-17.42,-45.60 L-17.42,-33.60 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-17.42,-33.60 L-29.42,-33.60 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-17.42,-33.60 L-29.42,-33.60 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
 <g transform="translate(705 75)" fill="var(--l0)" style="--delay:376ms">
 <path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
@@ -1158,13 +1158,13 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 </g>
 </g>
 <g class="row-stats"><path d="M24 291H826" stroke="var(--line)"/>
-<g transform="translate(25 309)" text-anchor="start"><text>Year total</text><text class="value" y="25">91 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">Jan 01 – Nov 26</text></g>
+<g transform="translate(25 309)" text-anchor="start"><text>Year total</text><text class="value" y="25">93 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">Jan 01 – Nov 26</text></g>
 <g transform="translate(230 309)" text-anchor="start"><text>Busiest day</text><text class="value" y="25">30 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">May 24</text></g>
 <g transform="translate(435 309)" text-anchor="start"><text>Longest streak</text><text class="value" y="25">4 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">Jun 26 – Jun 29</text></g>
 <g transform="translate(640 309)" text-anchor="start"><text>Current streak</text><text class="value" y="25">2 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">Nov 25 – Nov 26</text></g>
 </g>
 <g class="corner-stats" style="--offset:-5px">
-<g transform="translate(825 52)" text-anchor="end"><text>Year total</text><text class="value" y="25">91 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">Jan 01 – Nov 26</text></g>
+<g transform="translate(825 52)" text-anchor="end"><text>Year total</text><text class="value" y="25">93 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">Jan 01 – Nov 26</text></g>
 <g transform="translate(825 110)" text-anchor="end"><text>Busiest day</text><text class="value" y="25">30 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">May 24</text></g>
 </g>
 <g class="corner-stats" style="--offset:5px">
