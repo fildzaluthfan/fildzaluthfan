@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="360" viewBox="0 0 850 360" role="img" aria-labelledby="title desc">
-<title id="title">Contribution Skyline · 86 contributions in 2026</title>
+<title id="title">Contribution Skyline · 87 contributions in 2026</title>
 <desc id="desc">Each tile represents a day. Taller buildings indicate more contributions.</desc>
 <style>
 svg{--bg:#fff;--ink:#24292f;--muted:#57606a;--line:#d0d7de;--l0:#ebedf0;--l1:#c6e48b;--l2:#7bc96f;--l3:#239a3b;--l4:#196127}
@@ -1040,8 +1040,10 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 <path class="face" d="M-25.33,-57.87 L-25.33,-45.87 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-25.33,-57.87 L-25.33,-45.87 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
 <path class="face" d="M-25.33,-45.87 L-37.33,-45.87 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-25.33,-45.87 L-37.33,-45.87 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
-<g transform="translate(705 60)" fill="var(--l0)" style="--delay:564ms">
-<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+<g transform="translate(705 60)" fill="var(--l1)" style="--delay:564ms">
+<path class="face" d="M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z')"/>
+<path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
 </g>
 <g transform="translate(705 75)" fill="var(--l0)" style="--delay:564ms">
 <path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
@@ -1149,8 +1151,8 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;f
 <path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
 </g>
 </g><path d="M24 291H826" stroke="var(--line)"/>
-<text x="25" y="315">Year total</text><text class="value" x="25" y="343">86</text>
+<text x="25" y="315">Year total</text><text class="value" x="25" y="343">87</text>
 <text x="230" y="315">Busiest day</text><text class="value" x="230" y="343">30</text>
 <text x="435" y="315">Longest streak</text><text class="value" x="435" y="343">4 days</text>
-<text x="640" y="315">Current streak</text><text class="value" x="640" y="343">1 days</text>
+<text x="640" y="315">Current streak</text><text class="value" x="640" y="343">2 days</text>
 </svg>
