@@ -9,7 +9,7 @@ with sync_playwright() as playwright:
     browser = playwright.chromium.launch(channel="chrome", args=["--no-sandbox"])
     for theme in ("light", "dark"):
         page = browser.new_page(viewport={"width": 850, "height": 360},
-                                color_scheme=theme, reduced_motion="no-preference")
+                                device_scale_factor=2, color_scheme=theme, reduced_motion="no-preference")
         page.goto((assets / "contribution-skyline.svg").as_uri())
         page.evaluate("document.getAnimations().forEach(a => a.pause())")
         frames = []
@@ -24,7 +24,10 @@ with sync_playwright() as playwright:
                 for (const a of document.getAnimations()) a.currentTime = ms;
                 await new Promise(resolve => requestAnimationFrame(() => requestAnimationFrame(resolve)));
             }""", ms)
-            frames.append(Image.open(BytesIO(page.screenshot())).convert("RGB"))
+            with Image.open(BytesIO(page.screenshot(scale="device"))) as sample:
+                assert sample.size == (1700, 720)
+                frame = sample.convert("RGB").resize((850, 360), Image.Resampling.LANCZOS)
+                frames.append(frame)
         # Both the grid and the stats row must move in the actual exported frames.
         for crop in [(20, 80, 825, 240), (20, 295, 825, 354)]:
             assert ImageChops.difference(frames[0].crop(crop), frames[-1].crop(crop)).getbbox()

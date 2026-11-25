@@ -66,24 +66,27 @@ while cursor in active:
     cursor -= timedelta(days=1)
 
 peak = max(count for _, _, count in days)
+# Minimum-jerk interpolation starts and ends with zero velocity and acceleration.
+samples = [i / 64 for i in range(65)]
+ease = "linear(" + ",".join(f"{t**3 * (10 - 15*t + 6*t*t):.7f}" for t in samples) + ")"
 parts = [f'''<svg xmlns="http://www.w3.org/2000/svg" width="850" height="360" viewBox="0 0 850 360" role="img" aria-labelledby="title desc">
 <title id="title">{calendar.heading}</title>
 <desc id="desc">Each tile represents a day. Taller buildings indicate more contributions.</desc>
 <style>
-svg{{--bg:#fff;--ink:#24292f;--muted:#57606a;--line:#d0d7de;--l0:#ebedf0;--l1:#c6e48b;--l2:#7bc96f;--l3:#239a3b;--l4:#196127}}
+svg{{--ease:{ease};--bg:#fff;--ink:#24292f;--muted:#57606a;--line:#d0d7de;--l0:#ebedf0;--l1:#c6e48b;--l2:#7bc96f;--l3:#239a3b;--l4:#196127}}
 @media(prefers-color-scheme:dark){{svg{{--bg:#0d1117;--ink:#e6edf3;--muted:#9198a1;--line:#30363d;--l0:#242b34;--l1:#0e4429;--l2:#006d32;--l3:#26a641;--l4:#39d353}}}}
 text{{font:14px system-ui,sans-serif;fill:var(--muted)}}.value{{font-size:22px;font-weight:600;fill:var(--ink)}}
 .corner-stats{{opacity:1}}.row-stats{{opacity:0}}
 .value{{font-variant-numeric:tabular-nums}}
 .grid{{transform:matrix(.93,.13,-.6,.62,86,119)}}
 @media(prefers-reduced-motion:no-preference){{
-.row-stats{{animation:row 6s cubic-bezier(.42,0,.45,1) both}}
-.corner-stats{{animation:corners 6s cubic-bezier(.42,0,.45,1) both}}
+.row-stats{{animation:row 7.2s var(--ease) both}}
+.corner-stats{{animation:corners 7.2s var(--ease) both}}
 @keyframes row{{0%{{opacity:1;transform:translateY(0)}}62%,100%{{opacity:0;transform:translateY(5px)}}}}
 @keyframes corners{{0%,28%{{opacity:0;transform:translateY(var(--offset))}}94%,100%{{opacity:1;transform:translateY(0)}}}}
-.grid{{animation:camera 6s cubic-bezier(.42,0,.45,1) both}}
+.grid{{animation:camera 7.2s var(--ease) both}}
 @keyframes camera{{0%{{transform:matrix(1,0,0,1,28,114)}}100%{{transform:matrix(.93,.13,-.6,.62,86,119)}}}}
-.face{{animation:rise 6s cubic-bezier(.42,0,.45,1) both;animation-delay:var(--delay)}}
+.face{{animation:rise 7.2s var(--ease) both;animation-delay:var(--delay)}}
 @keyframes rise{{0%{{d:var(--flat)}}94%,100%{{d:var(--raised)}}}}
 }}
 </style>
