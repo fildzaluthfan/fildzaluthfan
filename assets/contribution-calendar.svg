@@ -323,8 +323,8 @@ text { font: 12px system-ui, sans-serif; fill: #f0f6fc }
 </g>
 <g style="--delay:396ms">
 <rect class="day" x="475" y="66" width="10" height="10" rx="2" fill="#161b22"/>
-<rect class="day" x="475" y="79" width="10" height="10" rx="2" fill="#161b22"/>
-<rect class="day" x="475" y="92" width="10" height="10" rx="2" fill="#2ea043"/>
+<rect class="day" x="475" y="79" width="10" height="10" rx="2" fill="#033a16"/>
+<rect class="day" x="475" y="92" width="10" height="10" rx="2" fill="#196c2e"/>
 <rect class="day" x="475" y="105" width="10" height="10" rx="2" fill="#161b22"/>
 <rect class="day" x="475" y="118" width="10" height="10" rx="2" fill="#161b22"/>
 <rect class="day" x="475" y="131" width="10" height="10" rx="2" fill="#161b22"/>
@@ -433,8 +433,8 @@ text { font: 12px system-ui, sans-serif; fill: #f0f6fc }
 </g>
 <text x="631" y="60">Oct</text>
 <g style="--delay:540ms">
-<rect class="day" x="631" y="66" width="10" height="10" rx="2" fill="#161b22"/>
-<rect class="day" x="631" y="79" width="10" height="10" rx="2" fill="#2ea043"/>
+<rect class="day" x="631" y="66" width="10" height="10" rx="2" fill="#033a16"/>
+<rect class="day" x="631" y="79" width="10" height="10" rx="2" fill="#196c2e"/>
 <rect class="day" x="631" y="92" width="10" height="10" rx="2" fill="#161b22"/>
 <rect class="day" x="631" y="105" width="10" height="10" rx="2" fill="#161b22"/>
 <rect class="day" x="631" y="118" width="10" height="10" rx="2" fill="#161b22"/>

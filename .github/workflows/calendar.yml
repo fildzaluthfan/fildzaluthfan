@@ -13,11 +13,10 @@ jobs:
       - uses: actions/checkout@v4
       - name: Render calendar
         env:
-          GH_TOKEN: ${{ github.token }}
           PROFILE: ${{ github.repository_owner }}
         shell: bash
         run: |
-          gh api graphql -F login="$PROFILE" -f query='query($login:String!) { user(login:$login) { contributionsCollection { contributionCalendar { totalContributions weeks { contributionDays { date contributionLevel contributionCount } } } } } }' --jq '.data.user.contributionsCollection.contributionCalendar' | python3 scripts/calendar.py
+          curl --fail --silent --show-error --location --retry 3 "https://github.com/users/$PROFILE/contributions" | python3 scripts/calendar.py
       - name: Save updated image
         run: |
           git config user.name 'github-actions[bot]'
