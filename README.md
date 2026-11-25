@@ -30,6 +30,6 @@ I build web interfaces, write the APIs behind them, and work with data from sens
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/fildzaluthfan/fildzaluthfan/main/assets/contribution-skyline.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fildzaluthfan/fildzaluthfan/main/assets/skyline-dark.webp?v=60fps">
-  <img alt="Fildza’s annual contributions, busiest day, and streaks as the annual heatmap rises into a skyline" src="./assets/skyline-light.webp?v=60fps">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fildzaluthfan/fildzaluthfan/main/assets/skyline-dark.webp?v=titleless">
+  <img alt="Fildza’s annual contributions, busiest day, and streaks as the annual heatmap rises into a skyline" src="./assets/skyline-light.webp?v=titleless">
 </picture>
