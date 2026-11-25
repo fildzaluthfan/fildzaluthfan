@@ -77,14 +77,14 @@ text{{font:14px system-ui,sans-serif;fill:var(--muted)}}.headline{{font-size:22p
 .value{{font-variant-numeric:tabular-nums}}
 .grid{{transform:matrix(.93,.13,-.6,.62,86,119)}}
 @media(prefers-reduced-motion:no-preference){{
-.row-stats{{animation:row 14s cubic-bezier(.45,0,.55,1) infinite}}
-.corner-stats{{animation:corners 14s cubic-bezier(.45,0,.55,1) infinite}}
-@keyframes row{{0%,6%,96%,100%{{opacity:1;transform:translateY(0)}}33%,69%{{opacity:0;transform:translateY(5px)}}}}
-@keyframes corners{{0%,21%,83%,100%{{opacity:0;transform:translateY(var(--offset))}}45%,57%{{opacity:1;transform:translateY(0)}}}}
-.grid{{animation:camera 14s cubic-bezier(.45,0,.55,1) infinite}}
-@keyframes camera{{0%,5%,99%,100%{{transform:matrix(1,0,0,1,28,114)}}44%,58%{{transform:matrix(.93,.13,-.6,.62,86,119)}}}}
-.face{{animation:rise 14s cubic-bezier(.45,0,.55,1) infinite;animation-delay:var(--delay);animation-fill-mode:backwards}}
-@keyframes rise{{0%,6%,96%,100%{{d:var(--flat)}}45%,57%{{d:var(--raised)}}}}
+.row-stats{{animation:row 6s cubic-bezier(.42,0,.45,1) both}}
+.corner-stats{{animation:corners 6s cubic-bezier(.42,0,.45,1) both}}
+@keyframes row{{0%{{opacity:1;transform:translateY(0)}}62%,100%{{opacity:0;transform:translateY(5px)}}}}
+@keyframes corners{{0%,28%{{opacity:0;transform:translateY(var(--offset))}}94%,100%{{opacity:1;transform:translateY(0)}}}}
+.grid{{animation:camera 6s cubic-bezier(.42,0,.45,1) both}}
+@keyframes camera{{0%{{transform:matrix(1,0,0,1,28,114)}}100%{{transform:matrix(.93,.13,-.6,.62,86,119)}}}}
+.face{{animation:rise 6s cubic-bezier(.42,0,.45,1) both;animation-delay:var(--delay)}}
+@keyframes rise{{0%{{d:var(--flat)}}94%,100%{{d:var(--raised)}}}}
 }}
 </style>
 <rect x=".5" y=".5" width="849" height="359" rx="16" fill="var(--bg)" stroke="var(--line)"/>
