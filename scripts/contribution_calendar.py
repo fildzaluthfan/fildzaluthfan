@@ -77,14 +77,14 @@ text{{font:14px system-ui,sans-serif;fill:var(--muted)}}.headline{{font-size:22p
 .value{{font-variant-numeric:tabular-nums}}
 .grid{{transform:matrix(.93,.13,-.6,.62,86,119)}}
 @media(prefers-reduced-motion:no-preference){{
-.row-stats{{animation:row 12s ease-in-out infinite}}
-.corner-stats{{animation:corners 12s ease-in-out infinite}}
-@keyframes row{{0%,13%,96%,100%{{opacity:1;transform:translateY(0)}}27%,81%{{opacity:0;transform:translateY(9px)}}}}
-@keyframes corners{{0%,24%,88%,100%{{opacity:0;transform:translateY(var(--offset))}}40%,73%{{opacity:1;transform:translateY(0)}}}}
-.grid{{animation:camera 12s ease-in-out infinite}}
-@keyframes camera{{0%,12%,100%{{transform:matrix(1,0,0,1,28,114)}}38%,74%{{transform:matrix(.93,.13,-.6,.62,86,119)}}}}
-.face{{animation:rise 12s ease-in-out infinite;animation-delay:var(--delay)}}
-@keyframes rise{{0%,13%,96%,100%{{d:var(--flat)}}40%,73%{{d:var(--raised)}}}}
+.row-stats{{animation:row 14s cubic-bezier(.45,0,.55,1) infinite}}
+.corner-stats{{animation:corners 14s cubic-bezier(.45,0,.55,1) infinite}}
+@keyframes row{{0%,6%,96%,100%{{opacity:1;transform:translateY(0)}}33%,69%{{opacity:0;transform:translateY(5px)}}}}
+@keyframes corners{{0%,21%,83%,100%{{opacity:0;transform:translateY(var(--offset))}}45%,57%{{opacity:1;transform:translateY(0)}}}}
+.grid{{animation:camera 14s cubic-bezier(.45,0,.55,1) infinite}}
+@keyframes camera{{0%,5%,99%,100%{{transform:matrix(1,0,0,1,28,114)}}44%,58%{{transform:matrix(.93,.13,-.6,.62,86,119)}}}}
+.face{{animation:rise 14s cubic-bezier(.45,0,.55,1) infinite;animation-delay:var(--delay);animation-fill-mode:backwards}}
+@keyframes rise{{0%,6%,96%,100%{{d:var(--flat)}}45%,57%{{d:var(--raised)}}}}
 }}
 </style>
 <rect x=".5" y=".5" width="849" height="359" rx="16" fill="var(--bg)" stroke="var(--line)"/>
@@ -105,7 +105,7 @@ for day, level, count in days:
     height = 53 * math.log1p(count) / math.log1p(peak) if peak else 0
     # Inverse camera projection of a vertical screen displacement.
     top = [(x - .6 * height / .6546, y - .93 * height / .6546) for x, y in base]
-    parts.append(f'<g transform="translate({15 * week} {15 * row})" fill="var(--l{level})" style="--delay:{week * 12}ms">')
+    parts.append(f'<g transform="translate({15 * week} {15 * row})" fill="var(--l{level})" style="--delay:{week * 8}ms">')
     faces = [(base, top, "")]
     if count:
         for a, b, brightness in [(1, 2, ".66"), (2, 3, ".82")]:
@@ -148,8 +148,8 @@ parts.append('<g class="row-stats"><path d="M24 291H826" stroke="var(--line)"/>'
 for x, data, detail in zip((25, 230, 435, 640), stats, details):
     parts.append(stat(x, 309, "start", *data, detail))
 parts.append("</g>")
-for x, y, anchor, offset, pair in [(825, 52, "end", "-10px", stats[:2]),
-                                    (25, 248, "start", "10px", stats[2:])]:
+for x, y, anchor, offset, pair in [(825, 52, "end", "-5px", stats[:2]),
+                                    (25, 248, "start", "5px", stats[2:])]:
     parts.append(f'<g class="corner-stats" style="--offset:{offset}">')
     for i, data in enumerate(pair):
         parts.append(stat(x, y + i * 58, anchor, *data, details[stats.index(data)]))

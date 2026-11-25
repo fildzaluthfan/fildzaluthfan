@@ -13,7 +13,11 @@ with sync_playwright() as playwright:
         page.goto((assets / "contribution-skyline.svg").as_uri())
         page.evaluate("document.getAnimations().forEach(a => a.pause())")
         frames = []
-        for ms in range(0, 12000, 100):
+        duration_ms = int(page.locator(".grid").evaluate(
+            "grid => grid.getAnimations()[0].effect.getTiming().duration"))
+        frame_count = round(duration_ms * 30 / 1000)
+        times = [round(i * duration_ms / frame_count) for i in range(frame_count + 1)]
+        for ms in times[:-1]:
             page.evaluate("""async ms => {
                 for (const a of document.getAnimations()) a.currentTime = ms;
                 await new Promise(requestAnimationFrame);
@@ -21,8 +25,9 @@ with sync_playwright() as playwright:
             frames.append(Image.open(BytesIO(page.screenshot())).convert("RGB"))
         # Both the grid and the stats row must move in the actual exported frames.
         for crop in [(20, 80, 825, 240), (20, 295, 825, 354)]:
-            assert ImageChops.difference(frames[0].crop(crop), frames[60].crop(crop)).getbbox()
+            assert ImageChops.difference(frames[0].crop(crop), frames[frame_count // 2].crop(crop)).getbbox()
         frames[0].save(assets / f"skyline-{theme}.webp", save_all=True,
-                       append_images=frames[1:], duration=100, loop=0, lossless=True, method=4)
+                       append_images=frames[1:], duration=[b - a for a, b in zip(times, times[1:])],
+                       loop=0, quality=88, method=4)
         page.close()
     browser.close()
