@@ -17,7 +17,7 @@ jobs:
         shell: bash
         run: |
           today=$(TZ=Asia/Jakarta date +%F)
-          curl --fail --silent --show-error --location --retry 3 "https://github.com/users/$PROFILE/contributions?from=${today:0:4}-01-01&to=$today" | python3 scripts/calendar.py
+          curl --fail --silent --show-error --location --retry 3 "https://github.com/users/$PROFILE/contributions?from=${today:0:4}-01-01&to=$today" | python3 scripts/contribution_calendar.py
       - name: Export animation frames for README image viewers
         run: |
           if git diff --quiet -- assets/contribution-skyline.svg && test -s assets/skyline-dark.webp && test -s assets/skyline-light.webp; then
