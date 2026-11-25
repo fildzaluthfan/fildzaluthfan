@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="745" height="200" viewBox="0 0 745 200" role="img" aria-labelledby="title">
-<title id="title">79 contributions in the last year</title>
+<title id="title">81 contributions in the last year</title>
 <style>
 text { font: 12px system-ui, sans-serif; fill: #f0f6fc }
 .heading { font-size: 16px }
@@ -10,7 +10,7 @@ text { font: 12px system-ui, sans-serif; fill: #f0f6fc }
 }
 </style>
 <rect width="745" height="200" rx="6" fill="#0d1117"/>
-<text class="heading" x="1" y="18">79 contributions in the last year</text>
+<text class="heading" x="1" y="18">81 contributions in the last year</text>
 <rect x=".5" y="32.5" width="744" height="167" rx="6" fill="none" stroke="#3d444d"/>
 <text x="12" y="89">Mon</text>
 <text x="12" y="115">Wed</text>
@@ -295,15 +295,15 @@ text { font: 12px system-ui, sans-serif; fill: #f0f6fc }
 </g>
 <g style="--delay:360ms">
 <rect class="day" x="436" y="66" width="10" height="10" rx="2" fill="#161b22"/>
-<rect class="day" x="436" y="79" width="10" height="10" rx="2" fill="#196c2e"/>
+<rect class="day" x="436" y="79" width="10" height="10" rx="2" fill="#2ea043"/>
 <rect class="day" x="436" y="92" width="10" height="10" rx="2" fill="#161b22"/>
 <rect class="day" x="436" y="105" width="10" height="10" rx="2" fill="#161b22"/>
 <rect class="day" x="436" y="118" width="10" height="10" rx="2" fill="#161b22"/>
-<rect class="day" x="436" y="131" width="10" height="10" rx="2" fill="#2ea043"/>
+<rect class="day" x="436" y="131" width="10" height="10" rx="2" fill="#56d364"/>
 <rect class="day" x="436" y="144" width="10" height="10" rx="2" fill="#033a16"/>
 </g>
 <g style="--delay:372ms">
-<rect class="day" x="449" y="66" width="10" height="10" rx="2" fill="#196c2e"/>
+<rect class="day" x="449" y="66" width="10" height="10" rx="2" fill="#2ea043"/>
 <rect class="day" x="449" y="79" width="10" height="10" rx="2" fill="#56d364"/>
 <rect class="day" x="449" y="92" width="10" height="10" rx="2" fill="#161b22"/>
 <rect class="day" x="449" y="105" width="10" height="10" rx="2" fill="#196c2e"/>
@@ -324,7 +324,7 @@ text { font: 12px system-ui, sans-serif; fill: #f0f6fc }
 <g style="--delay:396ms">
 <rect class="day" x="475" y="66" width="10" height="10" rx="2" fill="#161b22"/>
 <rect class="day" x="475" y="79" width="10" height="10" rx="2" fill="#033a16"/>
-<rect class="day" x="475" y="92" width="10" height="10" rx="2" fill="#196c2e"/>
+<rect class="day" x="475" y="92" width="10" height="10" rx="2" fill="#2ea043"/>
 <rect class="day" x="475" y="105" width="10" height="10" rx="2" fill="#161b22"/>
 <rect class="day" x="475" y="118" width="10" height="10" rx="2" fill="#161b22"/>
 <rect class="day" x="475" y="131" width="10" height="10" rx="2" fill="#161b22"/>
@@ -434,7 +434,7 @@ text { font: 12px system-ui, sans-serif; fill: #f0f6fc }
 <text x="631" y="60">Oct</text>
 <g style="--delay:540ms">
 <rect class="day" x="631" y="66" width="10" height="10" rx="2" fill="#033a16"/>
-<rect class="day" x="631" y="79" width="10" height="10" rx="2" fill="#196c2e"/>
+<rect class="day" x="631" y="79" width="10" height="10" rx="2" fill="#2ea043"/>
 <rect class="day" x="631" y="92" width="10" height="10" rx="2" fill="#161b22"/>
 <rect class="day" x="631" y="105" width="10" height="10" rx="2" fill="#161b22"/>
 <rect class="day" x="631" y="118" width="10" height="10" rx="2" fill="#161b22"/>
