@@ -1,0 +1,1156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="360" viewBox="0 0 850 360" role="img" aria-labelledby="title desc">
+<title id="title">Contribution Skyline · 86 contributions in 2026</title>
+<desc id="desc">Each tile represents a day. Taller buildings indicate more contributions.</desc>
+<style>
+svg{--bg:#fff;--ink:#24292f;--muted:#57606a;--line:#d0d7de;--l0:#ebedf0;--l1:#c6e48b;--l2:#7bc96f;--l3:#239a3b;--l4:#196127}
+@media(prefers-color-scheme:dark){svg{--bg:#0d1117;--ink:#e6edf3;--muted:#9198a1;--line:#30363d;--l0:#242b34;--l1:#0e4429;--l2:#006d32;--l3:#26a641;--l4:#39d353}}
+text{font:14px system-ui,sans-serif;fill:var(--muted)}.headline{font-size:22px;font-weight:650;fill:var(--ink)}.value{font-size:22px;font-weight:600;fill:var(--ink)}
+.grid{transform:matrix(.93,.13,-.6,.62,86,119)}
+@media(prefers-reduced-motion:no-preference){
+.grid{animation:camera 12s ease-in-out infinite}
+@keyframes camera{0%,12%,100%{transform:matrix(1,0,0,1,28,114)}38%,74%{transform:matrix(.93,.13,-.6,.62,86,119)}}
+.face{animation:rise 12s ease-in-out infinite;animation-delay:var(--delay)}
+@keyframes rise{0%,13%,96%,100%{d:var(--flat)}40%,73%{d:var(--raised)}}
+}
+</style>
+<rect x=".5" y=".5" width="849" height="359" rx="16" fill="var(--bg)" stroke="var(--line)"/>
+<text class="headline" x="25" y="35">Contribution Skyline</text>
+<text x="825" y="34" text-anchor="end">2026</text>
+<g class="grid">
+<g transform="translate(0 60)" fill="var(--l0)" style="--delay:0ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(0 75)" fill="var(--l0)" style="--delay:0ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(0 90)" fill="var(--l0)" style="--delay:0ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(15 0)" fill="var(--l0)" style="--delay:12ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(15 15)" fill="var(--l0)" style="--delay:12ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(15 30)" fill="var(--l0)" style="--delay:12ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(15 45)" fill="var(--l0)" style="--delay:12ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(15 60)" fill="var(--l0)" style="--delay:12ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(15 75)" fill="var(--l0)" style="--delay:12ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(15 90)" fill="var(--l0)" style="--delay:12ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(30 0)" fill="var(--l0)" style="--delay:24ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(30 15)" fill="var(--l0)" style="--delay:24ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(30 30)" fill="var(--l0)" style="--delay:24ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(30 45)" fill="var(--l0)" style="--delay:24ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(30 60)" fill="var(--l0)" style="--delay:24ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(30 75)" fill="var(--l0)" style="--delay:24ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(30 90)" fill="var(--l0)" style="--delay:24ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(45 0)" fill="var(--l0)" style="--delay:36ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(45 15)" fill="var(--l0)" style="--delay:36ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(45 30)" fill="var(--l0)" style="--delay:36ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(45 45)" fill="var(--l0)" style="--delay:36ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(45 60)" fill="var(--l0)" style="--delay:36ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(45 75)" fill="var(--l0)" style="--delay:36ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(45 90)" fill="var(--l0)" style="--delay:36ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(60 0)" fill="var(--l0)" style="--delay:48ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(60 15)" fill="var(--l0)" style="--delay:48ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(60 30)" fill="var(--l0)" style="--delay:48ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(60 45)" fill="var(--l0)" style="--delay:48ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(60 60)" fill="var(--l0)" style="--delay:48ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(60 75)" fill="var(--l0)" style="--delay:48ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(60 90)" fill="var(--l0)" style="--delay:48ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(75 0)" fill="var(--l0)" style="--delay:60ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(75 15)" fill="var(--l0)" style="--delay:60ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(75 30)" fill="var(--l0)" style="--delay:60ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(75 45)" fill="var(--l0)" style="--delay:60ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(75 60)" fill="var(--l0)" style="--delay:60ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(75 75)" fill="var(--l0)" style="--delay:60ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(75 90)" fill="var(--l0)" style="--delay:60ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(90 0)" fill="var(--l0)" style="--delay:72ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(90 15)" fill="var(--l0)" style="--delay:72ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(90 30)" fill="var(--l0)" style="--delay:72ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(90 45)" fill="var(--l0)" style="--delay:72ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(90 60)" fill="var(--l0)" style="--delay:72ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(90 75)" fill="var(--l0)" style="--delay:72ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(90 90)" fill="var(--l0)" style="--delay:72ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(105 0)" fill="var(--l0)" style="--delay:84ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(105 15)" fill="var(--l0)" style="--delay:84ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(105 30)" fill="var(--l0)" style="--delay:84ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(105 45)" fill="var(--l0)" style="--delay:84ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(105 60)" fill="var(--l0)" style="--delay:84ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(105 75)" fill="var(--l0)" style="--delay:84ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(105 90)" fill="var(--l0)" style="--delay:84ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(120 0)" fill="var(--l0)" style="--delay:96ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(120 15)" fill="var(--l0)" style="--delay:96ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(120 30)" fill="var(--l0)" style="--delay:96ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(120 45)" fill="var(--l0)" style="--delay:96ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(120 60)" fill="var(--l0)" style="--delay:96ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(120 75)" fill="var(--l0)" style="--delay:96ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(120 90)" fill="var(--l0)" style="--delay:96ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(135 0)" fill="var(--l0)" style="--delay:108ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(135 15)" fill="var(--l0)" style="--delay:108ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(135 30)" fill="var(--l0)" style="--delay:108ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(135 45)" fill="var(--l0)" style="--delay:108ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(135 60)" fill="var(--l0)" style="--delay:108ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(135 75)" fill="var(--l0)" style="--delay:108ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(135 90)" fill="var(--l0)" style="--delay:108ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(150 0)" fill="var(--l0)" style="--delay:120ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(150 15)" fill="var(--l0)" style="--delay:120ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(150 30)" fill="var(--l0)" style="--delay:120ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(150 45)" fill="var(--l0)" style="--delay:120ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(150 60)" fill="var(--l0)" style="--delay:120ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(150 75)" fill="var(--l0)" style="--delay:120ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(150 90)" fill="var(--l0)" style="--delay:120ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(165 0)" fill="var(--l0)" style="--delay:132ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(165 15)" fill="var(--l0)" style="--delay:132ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(165 30)" fill="var(--l0)" style="--delay:132ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(165 45)" fill="var(--l0)" style="--delay:132ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(165 60)" fill="var(--l0)" style="--delay:132ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(165 75)" fill="var(--l0)" style="--delay:132ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(165 90)" fill="var(--l0)" style="--delay:132ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(180 0)" fill="var(--l0)" style="--delay:144ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(180 15)" fill="var(--l0)" style="--delay:144ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(180 30)" fill="var(--l0)" style="--delay:144ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(180 45)" fill="var(--l0)" style="--delay:144ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(180 60)" fill="var(--l0)" style="--delay:144ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(180 75)" fill="var(--l0)" style="--delay:144ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(180 90)" fill="var(--l0)" style="--delay:144ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(195 0)" fill="var(--l0)" style="--delay:156ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(195 15)" fill="var(--l0)" style="--delay:156ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(195 30)" fill="var(--l0)" style="--delay:156ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(195 45)" fill="var(--l0)" style="--delay:156ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(195 60)" fill="var(--l0)" style="--delay:156ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(195 75)" fill="var(--l0)" style="--delay:156ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(195 90)" fill="var(--l0)" style="--delay:156ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(210 0)" fill="var(--l0)" style="--delay:168ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(210 15)" fill="var(--l0)" style="--delay:168ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(210 30)" fill="var(--l0)" style="--delay:168ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(210 45)" fill="var(--l0)" style="--delay:168ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(210 60)" fill="var(--l0)" style="--delay:168ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(210 75)" fill="var(--l0)" style="--delay:168ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(210 90)" fill="var(--l0)" style="--delay:168ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(225 0)" fill="var(--l0)" style="--delay:180ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(225 15)" fill="var(--l0)" style="--delay:180ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(225 30)" fill="var(--l0)" style="--delay:180ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(225 45)" fill="var(--l0)" style="--delay:180ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(225 60)" fill="var(--l0)" style="--delay:180ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(225 75)" fill="var(--l0)" style="--delay:180ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(225 90)" fill="var(--l0)" style="--delay:180ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(240 0)" fill="var(--l0)" style="--delay:192ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(240 15)" fill="var(--l0)" style="--delay:192ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(240 30)" fill="var(--l0)" style="--delay:192ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(240 45)" fill="var(--l0)" style="--delay:192ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(240 60)" fill="var(--l0)" style="--delay:192ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(240 75)" fill="var(--l0)" style="--delay:192ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(240 90)" fill="var(--l0)" style="--delay:192ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(255 0)" fill="var(--l0)" style="--delay:204ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(255 15)" fill="var(--l0)" style="--delay:204ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(255 30)" fill="var(--l0)" style="--delay:204ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(255 45)" fill="var(--l0)" style="--delay:204ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(255 60)" fill="var(--l0)" style="--delay:204ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(255 75)" fill="var(--l0)" style="--delay:204ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(255 90)" fill="var(--l0)" style="--delay:204ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(270 0)" fill="var(--l0)" style="--delay:216ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(270 15)" fill="var(--l0)" style="--delay:216ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(270 30)" fill="var(--l0)" style="--delay:216ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(270 45)" fill="var(--l0)" style="--delay:216ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(270 60)" fill="var(--l0)" style="--delay:216ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(270 75)" fill="var(--l0)" style="--delay:216ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(270 90)" fill="var(--l0)" style="--delay:216ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(285 0)" fill="var(--l0)" style="--delay:228ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(285 15)" fill="var(--l0)" style="--delay:228ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(285 30)" fill="var(--l0)" style="--delay:228ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(285 45)" fill="var(--l0)" style="--delay:228ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(285 60)" fill="var(--l0)" style="--delay:228ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(285 75)" fill="var(--l0)" style="--delay:228ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(285 90)" fill="var(--l0)" style="--delay:228ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(300 0)" fill="var(--l0)" style="--delay:240ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(300 15)" fill="var(--l0)" style="--delay:240ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(300 30)" fill="var(--l0)" style="--delay:240ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(300 45)" fill="var(--l0)" style="--delay:240ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(300 60)" fill="var(--l0)" style="--delay:240ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(300 75)" fill="var(--l0)" style="--delay:240ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(300 90)" fill="var(--l4)" style="--delay:240ms">
+<path class="face" d="M-25.35,-39.29 L-13.35,-39.29 L-13.35,-27.29 L-25.35,-27.29 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-25.35,-39.29 L-13.35,-39.29 L-13.35,-27.29 L-25.35,-27.29 Z')"/>
+<path class="face" d="M-13.35,-39.29 L-13.35,-27.29 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-13.35,-39.29 L-13.35,-27.29 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-13.35,-27.29 L-25.35,-27.29 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-13.35,-27.29 L-25.35,-27.29 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(315 0)" fill="var(--l4)" style="--delay:252ms">
+<path class="face" d="M-48.58,-75.30 L-36.58,-75.30 L-36.58,-63.30 L-48.58,-63.30 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-48.58,-75.30 L-36.58,-75.30 L-36.58,-63.30 L-48.58,-63.30 Z')"/>
+<path class="face" d="M-36.58,-75.30 L-36.58,-63.30 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-36.58,-75.30 L-36.58,-63.30 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-36.58,-63.30 L-48.58,-63.30 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-36.58,-63.30 L-48.58,-63.30 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(315 15)" fill="var(--l0)" style="--delay:252ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(315 30)" fill="var(--l0)" style="--delay:252ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(315 45)" fill="var(--l0)" style="--delay:252ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(315 60)" fill="var(--l0)" style="--delay:252ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(315 75)" fill="var(--l0)" style="--delay:252ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(315 90)" fill="var(--l0)" style="--delay:252ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(330 0)" fill="var(--l0)" style="--delay:264ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(330 15)" fill="var(--l0)" style="--delay:264ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(330 30)" fill="var(--l0)" style="--delay:264ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(330 45)" fill="var(--l0)" style="--delay:264ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(330 60)" fill="var(--l0)" style="--delay:264ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(330 75)" fill="var(--l0)" style="--delay:264ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(330 90)" fill="var(--l0)" style="--delay:264ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(345 0)" fill="var(--l0)" style="--delay:276ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(345 15)" fill="var(--l0)" style="--delay:276ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(345 30)" fill="var(--l0)" style="--delay:276ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(345 45)" fill="var(--l0)" style="--delay:276ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(345 60)" fill="var(--l0)" style="--delay:276ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(345 75)" fill="var(--l0)" style="--delay:276ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(345 90)" fill="var(--l0)" style="--delay:276ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(360 0)" fill="var(--l2)" style="--delay:288ms">
+<path class="face" d="M-15.54,-24.09 L-3.54,-24.09 L-3.54,-12.09 L-15.54,-12.09 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-15.54,-24.09 L-3.54,-24.09 L-3.54,-12.09 L-15.54,-12.09 Z')"/>
+<path class="face" d="M-3.54,-24.09 L-3.54,-12.09 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-3.54,-24.09 L-3.54,-12.09 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-3.54,-12.09 L-15.54,-12.09 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-3.54,-12.09 L-15.54,-12.09 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(360 15)" fill="var(--l0)" style="--delay:288ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(360 30)" fill="var(--l0)" style="--delay:288ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(360 45)" fill="var(--l0)" style="--delay:288ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(360 60)" fill="var(--l0)" style="--delay:288ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(360 75)" fill="var(--l0)" style="--delay:288ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(360 90)" fill="var(--l0)" style="--delay:288ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(375 0)" fill="var(--l0)" style="--delay:300ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(375 15)" fill="var(--l3)" style="--delay:300ms">
+<path class="face" d="M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z')"/>
+<path class="face" d="M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(375 30)" fill="var(--l0)" style="--delay:300ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(375 45)" fill="var(--l0)" style="--delay:300ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(375 60)" fill="var(--l0)" style="--delay:300ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(375 75)" fill="var(--l4)" style="--delay:300ms">
+<path class="face" d="M-22.77,-35.29 L-10.77,-35.29 L-10.77,-23.29 L-22.77,-23.29 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-22.77,-35.29 L-10.77,-35.29 L-10.77,-23.29 L-22.77,-23.29 Z')"/>
+<path class="face" d="M-10.77,-35.29 L-10.77,-23.29 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-10.77,-35.29 L-10.77,-23.29 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-10.77,-23.29 L-22.77,-23.29 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-10.77,-23.29 L-22.77,-23.29 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(375 90)" fill="var(--l1)" style="--delay:300ms">
+<path class="face" d="M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z')"/>
+<path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(390 0)" fill="var(--l3)" style="--delay:312ms">
+<path class="face" d="M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z')"/>
+<path class="face" d="M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(390 15)" fill="var(--l4)" style="--delay:312ms">
+<path class="face" d="M-32.57,-50.49 L-20.57,-50.49 L-20.57,-38.49 L-32.57,-38.49 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-32.57,-50.49 L-20.57,-50.49 L-20.57,-38.49 L-32.57,-38.49 Z')"/>
+<path class="face" d="M-20.57,-50.49 L-20.57,-38.49 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-20.57,-50.49 L-20.57,-38.49 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-20.57,-38.49 L-32.57,-38.49 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-20.57,-38.49 L-32.57,-38.49 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(390 30)" fill="var(--l0)" style="--delay:312ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(390 45)" fill="var(--l2)" style="--delay:312ms">
+<path class="face" d="M-15.54,-24.09 L-3.54,-24.09 L-3.54,-12.09 L-15.54,-12.09 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-15.54,-24.09 L-3.54,-24.09 L-3.54,-12.09 L-15.54,-12.09 Z')"/>
+<path class="face" d="M-3.54,-24.09 L-3.54,-12.09 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-3.54,-24.09 L-3.54,-12.09 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-3.54,-12.09 L-15.54,-12.09 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-3.54,-12.09 L-15.54,-12.09 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(390 60)" fill="var(--l2)" style="--delay:312ms">
+<path class="face" d="M-15.54,-24.09 L-3.54,-24.09 L-3.54,-12.09 L-15.54,-12.09 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-15.54,-24.09 L-3.54,-24.09 L-3.54,-12.09 L-15.54,-12.09 Z')"/>
+<path class="face" d="M-3.54,-24.09 L-3.54,-12.09 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-3.54,-24.09 L-3.54,-12.09 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-3.54,-12.09 L-15.54,-12.09 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-3.54,-12.09 L-15.54,-12.09 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(390 75)" fill="var(--l0)" style="--delay:312ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(390 90)" fill="var(--l0)" style="--delay:312ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(405 0)" fill="var(--l0)" style="--delay:324ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(405 15)" fill="var(--l0)" style="--delay:324ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(405 30)" fill="var(--l0)" style="--delay:324ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(405 45)" fill="var(--l0)" style="--delay:324ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(405 60)" fill="var(--l0)" style="--delay:324ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(405 75)" fill="var(--l0)" style="--delay:324ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(405 90)" fill="var(--l0)" style="--delay:324ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(420 0)" fill="var(--l0)" style="--delay:336ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(420 15)" fill="var(--l1)" style="--delay:336ms">
+<path class="face" d="M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z')"/>
+<path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(420 30)" fill="var(--l3)" style="--delay:336ms">
+<path class="face" d="M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z')"/>
+<path class="face" d="M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(420 45)" fill="var(--l0)" style="--delay:336ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(420 60)" fill="var(--l0)" style="--delay:336ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(420 75)" fill="var(--l0)" style="--delay:336ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(420 90)" fill="var(--l0)" style="--delay:336ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(435 0)" fill="var(--l0)" style="--delay:348ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(435 15)" fill="var(--l0)" style="--delay:348ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(435 30)" fill="var(--l0)" style="--delay:348ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(435 45)" fill="var(--l0)" style="--delay:348ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(435 60)" fill="var(--l0)" style="--delay:348ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(435 75)" fill="var(--l0)" style="--delay:348ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(435 90)" fill="var(--l0)" style="--delay:348ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(450 0)" fill="var(--l2)" style="--delay:360ms">
+<path class="face" d="M-15.54,-24.09 L-3.54,-24.09 L-3.54,-12.09 L-15.54,-12.09 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-15.54,-24.09 L-3.54,-24.09 L-3.54,-12.09 L-15.54,-12.09 Z')"/>
+<path class="face" d="M-3.54,-24.09 L-3.54,-12.09 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-3.54,-24.09 L-3.54,-12.09 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-3.54,-12.09 L-15.54,-12.09 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-3.54,-12.09 L-15.54,-12.09 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(450 15)" fill="var(--l0)" style="--delay:360ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(450 30)" fill="var(--l0)" style="--delay:360ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(450 45)" fill="var(--l0)" style="--delay:360ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(450 60)" fill="var(--l0)" style="--delay:360ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(450 75)" fill="var(--l0)" style="--delay:360ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(450 90)" fill="var(--l0)" style="--delay:360ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(465 0)" fill="var(--l0)" style="--delay:372ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(465 15)" fill="var(--l0)" style="--delay:372ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(465 30)" fill="var(--l0)" style="--delay:372ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(465 45)" fill="var(--l0)" style="--delay:372ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(465 60)" fill="var(--l0)" style="--delay:372ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(465 75)" fill="var(--l0)" style="--delay:372ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(465 90)" fill="var(--l0)" style="--delay:372ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(480 0)" fill="var(--l0)" style="--delay:384ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(480 15)" fill="var(--l0)" style="--delay:384ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(480 30)" fill="var(--l0)" style="--delay:384ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(480 45)" fill="var(--l0)" style="--delay:384ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(480 60)" fill="var(--l0)" style="--delay:384ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(480 75)" fill="var(--l0)" style="--delay:384ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(480 90)" fill="var(--l0)" style="--delay:384ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(495 0)" fill="var(--l0)" style="--delay:396ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(495 15)" fill="var(--l0)" style="--delay:396ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(495 30)" fill="var(--l0)" style="--delay:396ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(495 45)" fill="var(--l0)" style="--delay:396ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(495 60)" fill="var(--l0)" style="--delay:396ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(495 75)" fill="var(--l0)" style="--delay:396ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(495 90)" fill="var(--l0)" style="--delay:396ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(510 0)" fill="var(--l0)" style="--delay:408ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(510 15)" fill="var(--l0)" style="--delay:408ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(510 30)" fill="var(--l0)" style="--delay:408ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(510 45)" fill="var(--l0)" style="--delay:408ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(510 60)" fill="var(--l0)" style="--delay:408ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(510 75)" fill="var(--l0)" style="--delay:408ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(510 90)" fill="var(--l0)" style="--delay:408ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(525 0)" fill="var(--l0)" style="--delay:420ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(525 15)" fill="var(--l0)" style="--delay:420ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(525 30)" fill="var(--l0)" style="--delay:420ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(525 45)" fill="var(--l0)" style="--delay:420ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(525 60)" fill="var(--l1)" style="--delay:420ms">
+<path class="face" d="M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z')"/>
+<path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(525 75)" fill="var(--l0)" style="--delay:420ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(525 90)" fill="var(--l0)" style="--delay:420ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(540 0)" fill="var(--l0)" style="--delay:432ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(540 15)" fill="var(--l0)" style="--delay:432ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(540 30)" fill="var(--l0)" style="--delay:432ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(540 45)" fill="var(--l0)" style="--delay:432ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(540 60)" fill="var(--l0)" style="--delay:432ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(540 75)" fill="var(--l0)" style="--delay:432ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(540 90)" fill="var(--l0)" style="--delay:432ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(555 0)" fill="var(--l0)" style="--delay:444ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(555 15)" fill="var(--l0)" style="--delay:444ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(555 30)" fill="var(--l0)" style="--delay:444ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(555 45)" fill="var(--l0)" style="--delay:444ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(555 60)" fill="var(--l0)" style="--delay:444ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(555 75)" fill="var(--l0)" style="--delay:444ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(555 90)" fill="var(--l0)" style="--delay:444ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(570 0)" fill="var(--l0)" style="--delay:456ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(570 15)" fill="var(--l0)" style="--delay:456ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(570 30)" fill="var(--l0)" style="--delay:456ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(570 45)" fill="var(--l0)" style="--delay:456ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(570 60)" fill="var(--l0)" style="--delay:456ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(570 75)" fill="var(--l0)" style="--delay:456ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(570 90)" fill="var(--l0)" style="--delay:456ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(585 0)" fill="var(--l0)" style="--delay:468ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(585 15)" fill="var(--l0)" style="--delay:468ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(585 30)" fill="var(--l0)" style="--delay:468ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(585 45)" fill="var(--l0)" style="--delay:468ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(585 60)" fill="var(--l0)" style="--delay:468ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(585 75)" fill="var(--l0)" style="--delay:468ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(585 90)" fill="var(--l0)" style="--delay:468ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(600 0)" fill="var(--l1)" style="--delay:480ms">
+<path class="face" d="M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z')"/>
+<path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(600 15)" fill="var(--l3)" style="--delay:480ms">
+<path class="face" d="M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-19.61,-30.40 L-7.61,-30.40 L-7.61,-18.40 L-19.61,-18.40 Z')"/>
+<path class="face" d="M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-7.61,-30.40 L-7.61,-18.40 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-7.61,-18.40 L-19.61,-18.40 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(600 30)" fill="var(--l0)" style="--delay:480ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(600 45)" fill="var(--l0)" style="--delay:480ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(600 60)" fill="var(--l0)" style="--delay:480ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(600 75)" fill="var(--l0)" style="--delay:480ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(600 90)" fill="var(--l1)" style="--delay:480ms">
+<path class="face" d="M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-9.81,-15.20 L2.19,-15.20 L2.19,-3.20 L-9.81,-3.20 Z')"/>
+<path class="face" d="M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M2.19,-15.20 L2.19,-3.20 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M2.19,-3.20 L-9.81,-3.20 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(615 0)" fill="var(--l0)" style="--delay:492ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(615 15)" fill="var(--l0)" style="--delay:492ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(615 30)" fill="var(--l0)" style="--delay:492ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(615 45)" fill="var(--l0)" style="--delay:492ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(615 60)" fill="var(--l0)" style="--delay:492ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(615 75)" fill="var(--l0)" style="--delay:492ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(615 90)" fill="var(--l0)" style="--delay:492ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(630 0)" fill="var(--l0)" style="--delay:504ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(630 15)" fill="var(--l0)" style="--delay:504ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(630 30)" fill="var(--l0)" style="--delay:504ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(630 45)" fill="var(--l0)" style="--delay:504ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(630 60)" fill="var(--l0)" style="--delay:504ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(630 75)" fill="var(--l0)" style="--delay:504ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(630 90)" fill="var(--l0)" style="--delay:504ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(645 0)" fill="var(--l0)" style="--delay:516ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(645 15)" fill="var(--l0)" style="--delay:516ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(645 30)" fill="var(--l0)" style="--delay:516ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(645 45)" fill="var(--l0)" style="--delay:516ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(645 60)" fill="var(--l0)" style="--delay:516ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(645 75)" fill="var(--l0)" style="--delay:516ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(645 90)" fill="var(--l0)" style="--delay:516ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(660 0)" fill="var(--l0)" style="--delay:528ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(660 15)" fill="var(--l0)" style="--delay:528ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(660 30)" fill="var(--l0)" style="--delay:528ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(660 45)" fill="var(--l0)" style="--delay:528ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(660 60)" fill="var(--l0)" style="--delay:528ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(660 75)" fill="var(--l0)" style="--delay:528ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(660 90)" fill="var(--l0)" style="--delay:528ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(675 0)" fill="var(--l0)" style="--delay:540ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(675 15)" fill="var(--l0)" style="--delay:540ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(675 30)" fill="var(--l0)" style="--delay:540ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(675 45)" fill="var(--l0)" style="--delay:540ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(675 60)" fill="var(--l0)" style="--delay:540ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(675 75)" fill="var(--l0)" style="--delay:540ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(675 90)" fill="var(--l0)" style="--delay:540ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(690 0)" fill="var(--l0)" style="--delay:552ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(690 15)" fill="var(--l0)" style="--delay:552ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(690 30)" fill="var(--l0)" style="--delay:552ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(690 45)" fill="var(--l0)" style="--delay:552ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(690 60)" fill="var(--l0)" style="--delay:552ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(690 75)" fill="var(--l0)" style="--delay:552ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(690 90)" fill="var(--l0)" style="--delay:552ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(705 0)" fill="var(--l0)" style="--delay:564ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(705 15)" fill="var(--l0)" style="--delay:564ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(705 30)" fill="var(--l0)" style="--delay:564ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(705 45)" fill="var(--l4)" style="--delay:564ms">
+<path class="face" d="M-37.33,-57.87 L-25.33,-57.87 L-25.33,-45.87 L-37.33,-45.87 Z" style="--flat:path('M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z');--raised:path('M-37.33,-57.87 L-25.33,-57.87 L-25.33,-45.87 L-37.33,-45.87 Z')"/>
+<path class="face" d="M-25.33,-57.87 L-25.33,-45.87 L12.00,12.00 L12.00,0.00 Z" style="--flat:path('M12.00,0.00 L12.00,12.00 L12.00,12.00 L12.00,0.00 Z');--raised:path('M-25.33,-57.87 L-25.33,-45.87 L12.00,12.00 L12.00,0.00 Z')" filter="brightness(.66)"/>
+<path class="face" d="M-25.33,-45.87 L-37.33,-45.87 L0.00,12.00 L12.00,12.00 Z" style="--flat:path('M12.00,12.00 L0.00,12.00 L0.00,12.00 L12.00,12.00 Z');--raised:path('M-25.33,-45.87 L-37.33,-45.87 L0.00,12.00 L12.00,12.00 Z')" filter="brightness(.82)"/>
+</g>
+<g transform="translate(705 60)" fill="var(--l0)" style="--delay:564ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(705 75)" fill="var(--l0)" style="--delay:564ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(705 90)" fill="var(--l0)" style="--delay:564ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(720 0)" fill="var(--l0)" style="--delay:576ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(720 15)" fill="var(--l0)" style="--delay:576ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(720 30)" fill="var(--l0)" style="--delay:576ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(720 45)" fill="var(--l0)" style="--delay:576ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(720 60)" fill="var(--l0)" style="--delay:576ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(720 75)" fill="var(--l0)" style="--delay:576ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(720 90)" fill="var(--l0)" style="--delay:576ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(735 0)" fill="var(--l0)" style="--delay:588ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(735 15)" fill="var(--l0)" style="--delay:588ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(735 30)" fill="var(--l0)" style="--delay:588ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(735 45)" fill="var(--l0)" style="--delay:588ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(735 60)" fill="var(--l0)" style="--delay:588ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(735 75)" fill="var(--l0)" style="--delay:588ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(735 90)" fill="var(--l0)" style="--delay:588ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(750 0)" fill="var(--l0)" style="--delay:600ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(750 15)" fill="var(--l0)" style="--delay:600ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(750 30)" fill="var(--l0)" style="--delay:600ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(750 45)" fill="var(--l0)" style="--delay:600ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(750 60)" fill="var(--l0)" style="--delay:600ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(750 75)" fill="var(--l0)" style="--delay:600ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(750 90)" fill="var(--l0)" style="--delay:600ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(765 0)" fill="var(--l0)" style="--delay:612ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(765 15)" fill="var(--l0)" style="--delay:612ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(765 30)" fill="var(--l0)" style="--delay:612ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(765 45)" fill="var(--l0)" style="--delay:612ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(765 60)" fill="var(--l0)" style="--delay:612ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(765 75)" fill="var(--l0)" style="--delay:612ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(765 90)" fill="var(--l0)" style="--delay:612ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(780 0)" fill="var(--l0)" style="--delay:624ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(780 15)" fill="var(--l0)" style="--delay:624ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(780 30)" fill="var(--l0)" style="--delay:624ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(780 45)" fill="var(--l0)" style="--delay:624ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+<g transform="translate(780 60)" fill="var(--l0)" style="--delay:624ms">
+<path d="M0.00,0.00 L12.00,0.00 L12.00,12.00 L0.00,12.00 Z"/>
+</g>
+</g><path d="M24 291H826" stroke="var(--line)"/>
+<text x="25" y="315">Year total</text><text class="value" x="25" y="343">86</text>
+<text x="230" y="315">Busiest day</text><text class="value" x="230" y="343">30</text>
+<text x="435" y="315">Longest streak</text><text class="value" x="435" y="343">4 days</text>
+<text x="640" y="315">Current streak</text><text class="value" x="640" y="343">1 days</text>
+</svg>
