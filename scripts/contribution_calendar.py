@@ -67,12 +67,12 @@ while cursor in active:
 
 peak = max(count for _, _, count in days)
 parts = [f'''<svg xmlns="http://www.w3.org/2000/svg" width="850" height="360" viewBox="0 0 850 360" role="img" aria-labelledby="title desc">
-<title id="title">Contribution Skyline · {calendar.heading}</title>
+<title id="title">{calendar.heading}</title>
 <desc id="desc">Each tile represents a day. Taller buildings indicate more contributions.</desc>
 <style>
 svg{{--bg:#fff;--ink:#24292f;--muted:#57606a;--line:#d0d7de;--l0:#ebedf0;--l1:#c6e48b;--l2:#7bc96f;--l3:#239a3b;--l4:#196127}}
 @media(prefers-color-scheme:dark){{svg{{--bg:#0d1117;--ink:#e6edf3;--muted:#9198a1;--line:#30363d;--l0:#242b34;--l1:#0e4429;--l2:#006d32;--l3:#26a641;--l4:#39d353}}}}
-text{{font:14px system-ui,sans-serif;fill:var(--muted)}}.headline{{font-size:22px;font-weight:650;fill:var(--ink)}}.value{{font-size:22px;font-weight:600;fill:var(--ink)}}
+text{{font:14px system-ui,sans-serif;fill:var(--muted)}}.value{{font-size:22px;font-weight:600;fill:var(--ink)}}
 .corner-stats{{opacity:1}}.row-stats{{opacity:0}}
 .value{{font-variant-numeric:tabular-nums}}
 .grid{{transform:matrix(.93,.13,-.6,.62,86,119)}}
@@ -88,7 +88,6 @@ text{{font:14px system-ui,sans-serif;fill:var(--muted)}}.headline{{font-size:22p
 }}
 </style>
 <rect x=".5" y=".5" width="849" height="359" rx="16" fill="var(--bg)" stroke="var(--line)"/>
-<text class="headline" x="25" y="35">Contribution Skyline</text>
 <text x="825" y="34" text-anchor="end">{summary[2]}</text>
 <g class="grid">''']
 
