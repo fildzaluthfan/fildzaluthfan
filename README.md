@@ -1,9 +1,13 @@
-# Halo, saya Fildza!
+# Hi, I'm Fildza!
 
-## Tentang saya
+## About Me
 
-Di GitHub, saya membagikan proyek yang saya kerjakan. Kalau kamu ingin ngobrol tentang salah satunya, sapa saya di [Instagram @mfildza_lm](https://www.instagram.com/mfildza_lm) atau kirim email ke [mfildzaluthfanm.16@gmail.com](mailto:mfildzaluthfanm.16@gmail.com).
+I build web apps and explore questions through data. On the web side, I’ve worked on a TypeScript site for Cibitung Wetan village. My Python projects include an analysis of Jakarta’s MRT. [Village website source](https://github.com/fildzaluthfan/Web-Profile-Desa-Cibitung-Wetan) · [Jakarta MRT analysis](https://github.com/fildzaluthfan/mrt-jakarta-analysis)
 
-## Aktivitas GitHub
+One of my machine learning projects started with a YouTube discussion about AI-generated art. I used a k-nearest neighbors classifier to study the sentiment in comments on Eno Bening’s video about Ghibli-style images. [Sentiment analysis notebook project](https://github.com/fildzaluthfan/AnalisisDataSentiment)
 
-![Kalender animasi kontribusi GitHub Fildza selama setahun terakhir](./assets/activity.svg)
+If you’re working on something similar or have a question about a project, you can reach me on [Instagram](https://www.instagram.com/mfildza_lm) or by [email](mailto:mfildzaluthfanm.16@gmail.com).
+
+## GitHub Activity
+
+![Animated calendar of Fildza's GitHub contributions over the past year](./assets/activity.svg)
