@@ -91,7 +91,7 @@ text{{font:14px system-ui,sans-serif;fill:var(--muted)}}.value{{font-size:22px;f
 }}
 </style>
 <rect x=".5" y=".5" width="849" height="359" rx="16" fill="var(--bg)" stroke="var(--line)"/>
-<text x="825" y="34" text-anchor="end">{summary[2]}</text>
+<text x="825" y="34" text-anchor="end">January – December {summary[2]}</text>
 <g class="grid">''']
 
 
@@ -119,7 +119,13 @@ for day, level, count in days:
         else:
             parts.append(f'<path d="{end}"/>')
     parts.append("</g>")
+for month in range(1, 13):
+    month_start = date(int(summary[2]), month, 1)
+    week = (month_start - sunday).days // 7
+    parts.append(f'<text class="month" x="{15 * week}" y="121">{month_start:%b}</text>')
 parts.append("</g>")
+
+
 def span(end, length):
     if end is None or not length:
         return "—"
@@ -128,7 +134,7 @@ def span(end, length):
 
 
 details = [
-    f"Jan 01 – {min(today, days[-1][0]):%b %d}",
+    "Jan 01 – Dec 31",
     next((f"{day:%b %d}" for day, _, count in days if peak and count == peak), "—"),
     span(end_longest, longest),
     span(cursor + timedelta(days=current), current),
