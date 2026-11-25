@@ -30,7 +30,7 @@ class CalendarParser(HTMLParser):
 calendar = CalendarParser()
 calendar.feed(sys.stdin.read())
 heading = " ".join("".join(calendar.heading).split())
-if not re.fullmatch(r"(?:[\d,]+|No) contributions? in the last year", heading) or len(calendar.days) < 365:
+if not re.fullmatch(r"(?:[\d,]+|No) contributions? in \d{4}", heading) or len(calendar.days) < 365:
     raise ValueError("Incomplete GitHub contribution calendar")
 colors = ["#577161", "#d9f2a6", "#b4e84c", "#8fc22f", "#5f8a14"]
 weeks = []

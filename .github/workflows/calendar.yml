@@ -1,7 +1,7 @@
 name: Refresh contribution calendar
 on:
   schedule:
-    - cron: '27 2 * * *'
+    - cron: '27 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -16,7 +16,8 @@ jobs:
           PROFILE: ${{ github.repository_owner }}
         shell: bash
         run: |
-          curl --fail --silent --show-error --location --retry 3 "https://github.com/users/$PROFILE/contributions" | python3 scripts/calendar.py
+          today=$(TZ=Asia/Jakarta date +%F)
+          curl --fail --silent --show-error --location --retry 3 "https://github.com/users/$PROFILE/contributions?from=${today:0:4}-01-01&to=$today" | python3 scripts/calendar.py
       - name: Save updated image
         run: |
           git config user.name 'github-actions[bot]'
