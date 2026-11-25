@@ -29,3 +29,10 @@ I build web interfaces, write the APIs behind them, and work with data from sens
 ## GitHub Activity
 
 ![Animated calendar of Fildza's GitHub contributions this calendar year](./assets/activity-calendar.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fildzaluthfan/fildzaluthfan/output/pacman-contribution-graph-dark.svg">
+  <img alt="Pac-Man moving through Fildza's contribution calendar" src="https://raw.githubusercontent.com/fildzaluthfan/fildzaluthfan/output/pacman-contribution-graph.svg">
+</picture>
+
+![GitHub Pulse statistics for Fildza](https://raw.githubusercontent.com/fildzaluthfan/fildzaluthfan/output/github-stats.svg)
