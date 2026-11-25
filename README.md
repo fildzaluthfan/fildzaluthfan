@@ -28,4 +28,4 @@ I build web interfaces, write the APIs behind them, and work with data from sens
 
 ## GitHub Activity
 
-![Animated calendar of Fildza's GitHub contributions over the past year](./assets/contribution-calendar.svg)
+![Animated calendar of Fildza's GitHub contributions over the past year](./assets/activity-calendar.svg)

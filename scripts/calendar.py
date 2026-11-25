@@ -32,50 +32,38 @@ calendar.feed(sys.stdin.read())
 heading = " ".join("".join(calendar.heading).split())
 if not re.fullmatch(r"(?:[\d,]+|No) contributions? in the last year", heading) or len(calendar.days) < 365:
     raise ValueError("Incomplete GitHub contribution calendar")
-colors = ["#161b22", "#033a16", "#196c2e", "#2ea043", "#56d364"]
+colors = ["#577161", "#d9f2a6", "#b4e84c", "#8fc22f", "#5f8a14"]
 weeks = []
 for day in sorted(calendar.days):
     if not weeks or day.weekday() == 6:
         weeks.append([])
     weeks[-1].append(day)
-width = 56 + 13 * len(weeks)
-parts = [f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="200" viewBox="0 0 {width} 200" role="img" aria-labelledby="title">
+width = 40 + 14 * len(weeks)
+parts = [f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {width} 188" role="img" aria-labelledby="title">
 <title id="title">{heading}</title>
+<defs><linearGradient id="surface" x2="1" y2="1" gradientUnits="objectBoundingBox">
+<stop stop-color="#526f58"/><stop offset="1" stop-color="#243f32"/></linearGradient></defs>
 <style>
-text {{ font: 12px system-ui, sans-serif; fill: #f0f6fc }}
-.heading {{ font-size: 16px }}
-.muted {{ fill: #9198a1 }}
+text {{ font-family: system-ui, sans-serif; fill: white }}
 @media (prefers-reduced-motion: no-preference) {{
 .day {{ transform-box: fill-box; transform-origin: center; animation: appear .2s ease-out backwards; animation-delay: var(--delay) }}
 @keyframes appear {{ from {{ opacity: 0; transform: scale(.4) }} }}
 }}
 </style>
-<rect width="{width}" height="200" rx="6" fill="#0d1117"/>
-<text class="heading" x="1" y="18">{heading}</text>
-<rect x=".5" y="32.5" width="{width - 1}" height="167" rx="6" fill="none" stroke="#3d444d"/>''']
-for row, label in [(1, "Mon"), (3, "Wed"), (5, "Fri")]:
-    parts.append(f'<text x="12" y="{76 + 13 * row}">{label}</text>')
-
-last_month = None
+<rect width="{width}" height="188" rx="24" fill="url(#surface)"/>
+<text x="20" y="34" font-size="18" font-weight="650">{heading}</text>''']
+previous_month = None
 for index, days in enumerate(weeks):
     first = days[0]
-    x = 46 + 13 * index
-    if first.month != last_month and index <= len(weeks) - 2:
-        # Skip a one-column opening month to leave room for the next label.
-        if index or len(weeks) == 1 or weeks[1][0].month == first.month:
-            parts.append(f'<text x="{x}" y="60">{first:%b}</text>')
-    last_month = first.month
+    x = 20 + 14 * index
+    if first.month != previous_month and first.day <= 7 and index <= len(weeks) - 3:
+        parts.append(f'<text x="{x}" y="61" font-size="11">{first:%b}</text>')
+    previous_month = first.month
     parts.append(f'<g style="--delay:{12 * index}ms">')
     for day in days:
         row = (day.weekday() + 1) % 7
         color = colors[calendar.days[day]]
-        parts.append(f'<rect class="day" x="{x}" y="{66 + 13 * row}" width="10" height="10" rx="2" fill="{color}"/>')
+        parts.append(f'<rect class="day" x="{x}" y="{72 + 14 * row}" width="11" height="11" rx="3" fill="{color}"/>')
     parts.append("</g>")
-
-legend_x = width - 137
-parts.append(f'<text class="muted" x="{legend_x - 5}" y="182" text-anchor="end">Less</text>')
-for index, color in enumerate(colors):
-    parts.append(f'<rect x="{legend_x + 14 * index}" y="172" width="10" height="10" rx="2" fill="{color}"/>')
-parts.append(f'<text class="muted" x="{legend_x + 70}" y="182">More</text>')
 parts.append("</svg>")
-Path("assets/contribution-calendar.svg").write_text("\n".join(parts) + "\n")
+Path("assets/activity-calendar.svg").write_text("\n".join(parts) + "\n")
