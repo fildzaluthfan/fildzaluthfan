@@ -1172,7 +1172,7 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.value{font-size:22px;font
 <g transform="translate(25 309)" text-anchor="start"><text>Year total</text><text class="value" y="25">101 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">Jan 01 – Dec 31</text></g>
 <g transform="translate(230 309)" text-anchor="start"><text>Busiest day</text><text class="value" y="25">30 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">May 24</text></g>
 <g transform="translate(435 309)" text-anchor="start"><text>Longest streak</text><text class="value" y="25">4 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">Jun 26 – Jun 29</text></g>
-<g transform="translate(640 309)" text-anchor="start"><text>Current streak</text><text class="value" y="25">2 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">Nov 25 – Nov 26</text></g>
+<g transform="translate(640 309)" text-anchor="start"><text>Current streak</text><text class="value" y="25">0 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">—</text></g>
 </g>
 <g class="corner-stats" style="--offset:-5px">
 <g transform="translate(825 52)" text-anchor="end"><text>Year total</text><text class="value" y="25">101 <tspan font-size="13" font-weight="400">contributions</tspan></text><text y="42" font-size="12">Jan 01 – Dec 31</text></g>
@@ -1180,6 +1180,6 @@ text{font:14px system-ui,sans-serif;fill:var(--muted)}.value{font-size:22px;font
 </g>
 <g class="corner-stats" style="--offset:5px">
 <g transform="translate(25 248)" text-anchor="start"><text>Longest streak</text><text class="value" y="25">4 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">Jun 26 – Jun 29</text></g>
-<g transform="translate(25 306)" text-anchor="start"><text>Current streak</text><text class="value" y="25">2 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">Nov 25 – Nov 26</text></g>
+<g transform="translate(25 306)" text-anchor="start"><text>Current streak</text><text class="value" y="25">0 <tspan font-size="13" font-weight="400">days</tspan></text><text y="42" font-size="12">—</text></g>
 </g>
 </svg>
